@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HabemusPapaModeloPrimerParical.Cardenal">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQEAAAAAAAAIgAAACAAAAAAAAAAAAIAIiA=</HashCode>
+      <FileName>Cardenal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HabemusPapaModeloPrimerParical.Conclave">
+    <Position X="7.25" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAhAACwQAQEAQAAAAAAACIAAAAIAAAAAAAAIAiA=</HashCode>
+      <FileName>Conclave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HabemusPapaModeloPrimerParical.Program">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HabemusPapaModeloPrimerParical.ENacionalidades" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACAAgAAAAAAAQAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Cardenal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
